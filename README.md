@@ -11,7 +11,9 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/tangbenda)](https://github.com/tangbenda) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/tangbenda)](https://github.com/tangbenda) 
 
+<!--
 ![Benda's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangbenda&show_icons=true&theme=radical&count_private=true)
+--->
 
 <!--
 **tangbenda/tangbenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
